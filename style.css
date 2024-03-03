@@ -1,0 +1,138 @@
+* {
+    margin: 5px;
+    padding:5px;
+    background-size: cover;
+}
+body {
+    background-color: #fbfbfb;
+    
+}
+#linken {
+    width: 30px;
+    margin: 0 120px;
+}
+#foto {
+    height: 50vw;
+    background-size: cover;
+    border-radius: 25px;
+    
+    
+    
+}
+#marcelo {
+    height: 100px;
+    border-radius: 50%;
+    
+}
+video {
+    width: 300px;
+    height: 200px;
+    
+}
+#fernan {
+    color: brown;
+    font-weight: bold;
+    font-size: 25px;
+    
+   
+}
+#abbr {
+    text-decoration: none;
+
+}
+#minha-foto {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+   
+    
+    
+}
+#img {
+    text-align: center;
+    border-radius: 7px;
+
+}
+#nand {
+   margin: 0; 
+   border: 0; 
+}
+h1 {
+    background-color: #000000;
+    text-align: center;
+    color: rgb(228, 215, 215);
+    border-radius: 5px;
+}
+h2 {
+    background-color: rgb(0, 0, 0);
+    width: 170px;
+    color: white;
+
+    border-radius: 5px;
+}
+
+#aju {
+  
+   width: 400px;
+}
+
+.principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+}
+
+#fausto {
+    width: 400px;
+}
+
+li, a {
+    list-style: none;
+    text-decoration: none;
+   
+}
+
+li:hover{
+    font-weight: 600;
+    text-decoration: underline;
+}
+a {
+    color: rgb(158, 158, 173);
+    font-size: 30px;
+}
+
+#prai {
+    width: 400px;
+}
+
+#cal {
+    width: 400px;
+}
+
+#ami {
+    width: 120px;
+    height: 200px;
+}
+
+#bei {
+    width: 120px;
+    height: 200px;
+}
+
+#alv {
+    width: 120px;
+    height: 200px;
+}
+
+#fri {
+    width: 130px;
+    height: 200px;
+}
+
+#clique, #amigo,
+#amiga, #exer, #elz {
+    display: block; 
+    padding-left: 5%;  
+    
+}
